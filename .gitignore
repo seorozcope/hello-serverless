@@ -7,3 +7,4 @@ jspm_packages
 .dynamodb
 .vscode
 coverage
+/.idea/
